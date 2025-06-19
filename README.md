@@ -26,7 +26,7 @@
 
 ### Quick Start
 ```bash
-git clone https://github.com/your-username/zv0-agent.git
+git clone https://github.com/oxbshw/ZV.0. git
 cd zv0-agent
 pip install -r requirements.txt
 ```
